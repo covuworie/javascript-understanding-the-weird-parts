@@ -1,5 +1,5 @@
 # JavaScript: Understanding the Weird Parts
-These are my notes from the briliant course by [Tony Alicea](https://twitter.com/anthonypalicea) about learning in-depth JavaScript. If you want to learn how JavaScript engine works under the hood I highly recommend you to check out this course which you can find at [Udemy](https://www.udemy.com/understand-javascript/).
+These are my notes from the briliant course by [Tony Alicea](https://twitter.com/anthonypalicea) about learning in-depth JavaScript. If you want to learn how JavaScript engine works under the hood I highly recommend you to check out this course which you can find at [Udemy](https://www.udemy.com/understand-javascript/). Alternatively, it seems that someone has provided the full course materials for free via [Google Drive](https://drive.google.com/drive/folders/1C5xG-GqeobyQqdNG1i7k0lasYEizwTFs?fbclid=IwAR2bTdS2HaXRCbAklhVLXz8tIHG6XIwRbQ4nRLHusjTjXsN04HYnyHupr5A).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
